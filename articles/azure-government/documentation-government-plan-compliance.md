@@ -17,7 +17,7 @@ ms.date: 12/07/2016
 ms.author: jomolesk
 
 ---
-# Azure Government compliance
+# Azure Blueprint
 
 ## Azure Blueprint
 
